@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rambla&display=swap');
+#first{
+    background-image: url("bg1.png");
+    background-repeat: no repeat;
+    background-size: cover;
+    height: 810px;
+    background: rgba(0, 50, 86, 0.9);
+}
+nav{
+    display: flex;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    margin: 36px;
+}
+nav ul{
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 40px;
+    position: relative;
+    left: 97px;
+}
+
+nav ul li{
+    list-style: none; 
+    padding: 0 23px;
+}
+.home{
+    color: #FFA500;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover{ 
+    font-weight: bolder;
+}
+nav li input{
+    width: 310px;
+}
+nav ul li img{
+    position: relative;
+    right: 39px;
+}
+#first h1{
+    font-size: 100px;
+    font-weight: 400;
+    font-family: 'Pompiere', cursive;
+    width: 722px;
+    position: relative;
+    left: 20px;
+    color: white;
+}
+#first p{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Pompiere', cursive;
+    width: 546px;
+    position: relative;
+    left: 20px;
+    color: white;
+}
+.jb{
+    position: relative;
+    top: 28px;
+    left: 45px;
+}
+.jb img{
+    border-radius: 20px;
+}
+.old{
+    position: relative;
+    bottom: 536px;
+    left: 886px;
+}
+.old img{
+    border-radius: 28px;
+}
+.green{
+    position: relative;
+    bottom: 468px;
+    left: 886px;
+}
+.green img{
+    border-radius: 28px;
+}
+.children{
+    position: relative;
+    bottom: 734px;
+    left: 1199px;
+}
+.children img{
+    border-radius: 28px;
+}
+#second{
+    font-family: 'Pompiere', cursive;
+    margin: 5px;
+    padding: auto;
+}
+#second h1{
+    position: relative;
+    top: 2px;
+    left: 2px;
+    color: #FFA500;
+    font-size: 100px;
+    font-weight: 400;
+    margin: initial;
+}
+#second p{
+    width: 366px;
+    color: #0F4871;
+}
+#fifth{
+    font-family: 'Amiko', sans-serif;
+    background-image: url("bg2.png");
+    background-size: cover;
+    height: 524px;
+}
+.num{
+    color: #FFA500;
+    font-size: x-large;
+}
+#sixth{
+    background-color: #FFA500;
+    font-family: 'Rambla', sans-serif;
+    display: flex;
+}
+#third{
+    font-family: 'Poppins', sans-serif;
+    height: 300px;
+}
+.house{
+    position: relative;
+    top: 77px;
+    left: 129px;
+}
+.currency{
+    position: relative;
+    top: -131px;
+    left: 666px;
+}
+.teams{
+    position: relative;
+    top: -333px;
+    left: 1215px;
+}
+.teams p{
+    width: 116px;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    right: 13px;
+    font-family: 'Poppins', sans-serif;
+}
+.currency p{
+    width: 132px;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    right: 21px;
+    font-family: 'Poppins', sans-serif;
+}
+.house p{
+    width: 117px;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    right: 13px;
+    font-family: 'Poppins', sans-serif;
+}
+.face{
+    display: flex;
+    align-items: center;
+    margin: 24px;
+    position: relative;
+    left: 926px;
+}
+#sixth table{
+    margin: 23px;
+    color: white;
+}
+#fifth h1{
+    position: relative;
+    top: 24px;
+    left: 62px;
+    height: 65px;
+    font-size: xxx-large;
+}
+.c{
+    position: relative;
+    top: -249px;
+    left: 1031px;
+}
+.name{
+    position: relative;
+    top: 21px;
+    left: 67px;
+}
+.email{
+    position: relative;
+    top: -73px;
+    left: 500px;
+}
+.email input{
+    width: 287px;
+}
+.name input{
+    width: 200px;
+}
+.message{
+    position: relative;
+    top: -21px;
+    left: 67px;
+}
+.message input{
+    width: 400px;
+}
+.c img{
+    position: relative;
+    right: 412px;
+}
+.oh{
+    position: relative;
+    top: 39px;
+}
+.em2{
+    position: relative;
+    top: 72px;
+}
+#fourth{
+    background-image: url("bg4.png");
+    background-size: cover;
+    height: 580px;
+}
+#fourth img{
+    position: relative;
+    top: 272px;
+    left: 762px;
+}
+.arrow{
+    position: relative;
+    top: 21px;
+    left: 736px;
+}
+.fb{
+    margin: 5px;
+}
+.inst{
+    margin: 5px;
+}
+.tw{
+    margin: 5px;
+}
+.ps{
+    display: flex;
+}
+.p1{
+    position: relative;
+    left: -58px;
+}
+.p2{
+    position: relative;
+    left: 19px;
+}
+.p3{
+    position: relative;
+    left: 115px;
+}
+.p4{
+    position: relative;
+    left: 229px;
+}
+.p5{
+    position: relative;
+    left: 329px;
+}
+.p6{
+    position: relative;
+    left: 421px;
+}
